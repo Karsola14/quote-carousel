@@ -6,9 +6,9 @@ A carousel of quotes.
 
 Golf - Different Shots: Tee box, fairway, approaching, chipping, putting
 
-Quote - "The shots you make are feedback"
+Quote - "The results of your shots are feedback"
 
-Image - The different shots
+Images - The different shots
 
 Arrows - Flag triangles
 
