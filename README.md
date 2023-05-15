@@ -14,10 +14,14 @@ Arrows - Flag triangles
 
 Random button - Golf Ball
 
-## Why does this exist? 
+## Why does this exist?
+
 - Understand pros and cons of the UI pattern: sliders or carousels
 - Create solution without using depending on a third-party JS library
 - Web experience that can be navigated without a mouse and keyboard
 
 ## Citations
+
 - Your citations and sources go here
+  [Favicon Generator](https://favicon.io/favicon-converter/)
+  [Bespoke-serif](https://www.fontshare.com/fonts/bespoke-serif)
