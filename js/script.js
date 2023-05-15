@@ -3,7 +3,7 @@ const data = [
   {
    quote: `“Tee Box”`, 
    emoji: '🏌️‍♂️', 
-   image: `url(assets/tee box.jpg)`
+   image: `url(assets/tee-box.jpg)`
   }, 
   {
    quote: `“Fairway”`, 
@@ -13,12 +13,12 @@ const data = [
   {
    quote: `“Approaching Green”`, 
    emoji: '🏌️‍♀️' , 
-   image: `url(assets/approaching green.jpg)`
+   image: `url(assets/approaching-green.jpg)`
   },
   {
     quote: `“Around Green”`, 
     emoji: '⛳', 
-    image: `url(assets/forest.jpg)`
+    image: `url(assets/around-green.png)`
   },
   {
     quote: `“Green”`, 
@@ -42,7 +42,7 @@ quote.innerHTML = "The results of your shots are feedback";
 // Check-Check: change emoji text
 emoji.innerHTML = "👏";
 // Check-Check: background image
-bgImage.style.backgroundImage= 'url(/assets/golf ball next to hole.jpg)';
+bgImage.style.backgroundImage= 'url(/assets/golf-ball-next-to-hole.jpg)';
 
 /*
  * Navigate to Items with Event Listeners
