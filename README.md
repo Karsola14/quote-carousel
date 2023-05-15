@@ -25,3 +25,4 @@ Random button - Golf Ball
 - Your citations and sources go here
   [Favicon Generator](https://favicon.io/favicon-converter/)
   [Bespoke-serif](https://www.fontshare.com/fonts/bespoke-serif)
+  [Emojis](https://emojipedia.org/)
