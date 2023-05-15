@@ -33,11 +33,11 @@ const emoji = document.querySelector('p');
 const bgImage = document.querySelector('body');
 
 // Check-Check: change text
-quote.innerHTML = "Colin is quotable.";
+quote.innerHTML = "The results of your shots are feedback";
 // Check-Check: change emoji text
-emoji.innerHTML = "👍️";
+emoji.innerHTML = "👏";
 // Check-Check: background image
-bgImage.style.backgroundImage= 'url(/assets/mountain.jpg)';
+bgImage.style.backgroundImage= 'url(/assets/golf ball next to hole.jpg)';
 
 /*
  * Navigate to Items with Event Listeners
