@@ -49,7 +49,7 @@ bgImage.style.backgroundImage= 'url(/assets/golf-ball-next-to-hole.jpg)';
  * Track Number of Items
 */
 // initialize item number
-let itemNumber = 0;
+let itemNumber = -1;
 // get next button
 const nextButton = document.querySelector("img.next");
 // get previous button
