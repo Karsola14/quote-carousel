@@ -38,7 +38,7 @@ const emoji = document.querySelector('p');
 const bgImage = document.querySelector('body');
 
 // Check-Check: change text
-quote.innerHTML = "The results of your shots are feedback";
+quote.innerHTML = "The Different Parts of a Golf Hole";
 // Check-Check: change emoji text
 emoji.innerHTML = "👏";
 // Check-Check: background image
